@@ -1,4 +1,4 @@
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Picture1](https://user-images.githubusercontent.com/35669027/106232266-92898300-61c1-11eb-8596-ad4b5b00da09.png?raw=true "Optional Title")
 
 # Predicting No-Show Appointments
 
